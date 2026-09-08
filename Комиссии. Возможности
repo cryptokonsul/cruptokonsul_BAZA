@@ -1,0 +1,60 @@
+🔴 Комиссии. Возможности
+
+⭕️ Gas free TRON
+
+⚠️ Не забываем, что для исходящей транзакции необходимо активировать аккаунт TRON сделав на него транзакцию 1TRX. Активация (https://developers.tron.network/docs/account#account-activation)
+
+🔻 TRON. ЭНЕРГИЯ (https://t.me/cryptokonsul_BAZA/181)
+
+🔘 Gas free TRON Tronlinck (https://support.tronlink.org/hc/en-us/articles/38903684778393-GasFree-User-Guide) (в кошельке Tronlinck)
+Оплата сетевой комиссии самим стейблкоином USDT.
+При транзакции USDT TRC20 
+❕за АКТИВАЦИЮ такой возможности нужно 
+заплатить разово ❕10/~1,5 USDT (⚠️ будет активирована возможность только на адресе ❕ОТПРАВКИ) за АДРЕС. 
+И в момент, и в последствии за каждую транзакцию USDT нужно будет оплатить комиссию этим самым USDT. 
+Комиссия за транзакцию в USDT 
+будет стоить ❕10\~1,5+- USDT за ❕ОДНУ ТРАНЗАКЦИЮ.
+Работает только в кошельке Tronlinck от самого TRON. ⚠️ Некоторые аппаратные кошельки позволяют подключаться через интерфейс Tronlinck
+
+🔘 Zero Energy Fee Transfer USDT Transfer Tool (https://www.netts.io/tools/transfer/usdt/) (сервис для Tronlinck)
+Оплата сетевой комиссии с вашей стороны самим стейблкоином USDT, ⚠️ сервис утилиты вычисляет, составляет две транзакции и после подписания нагружает необходимым количеством  Energy и Bandwidth
+
+🔘 SafePal Gas Station TRON Energy Rental (https://t.me/SafePalTG/1226/201808) (в кошельке SafePal)
+Оплата сетевой комиссии с вашей стороны самим стейблкоином USDT, ⚠️ сервис утилиты после вашего выбора необходимых действий вычисляет и нагружает необходимым количеством  Energy и Bandwidth на выбранный ❕адрес и ❕срок
+
+🔘 OneKey Free Gas (в кошельке OneKey)
+Запрос энергии, бесплатно. Нагружают примерно 65,000 ENERGY.
+Ресурс действителен в течение 10 минут. Завершите транзакцию в установленный срок. Получайте один раз в 24 часа (сброс по GMT+8), максимум 10 раз в месяц
+
+⭕️ EIP-4337 (https://eips.ethereum.org/EIPS/eip-4337) и EIP-7702 (https://eips.ethereum.org/EIPS/eip-7702)
+
+🔘 Tangem Gasless Transactions (https://tangemshop.ru/blogs/blog/smart-gas)
+EIP-7702 для EVM smart contracts
+указаны Ethereum, BNB Smart Chain, Polygon POS, Arbitrum One, Base.
+Благодаря функции Gasless Transactions вы можете оплачивать комиссию за газ напрямую в токенах, таких как USDT или USDC даже если у вас нет собственной монеты блокчейна. 
+USDC, USDT - Ethereum,
+USDC, BSC-USD - BNB SC,
+USDC, USDT0 - Polygon,
+USDC, USDT0 - Arbitrum One,
+USDC - Base
+
+🔘 MetaMask Smart Accounts Gas Station (https://support.metamask.io/manage-crypto/transactions/metamask-gas-station/) (в кошельке Metamask)
+Если у вас недостаточно ETH или BNB для оплаты сетевой комиссии, MetaMask Gas Station автоматически подберет подходящий токен. Если вы хотите использовать другой токен, нажмите на раскрывающееся меню токенов рядом с пунктом «Сетевая комиссия».
+Оплата возможна токенами: mUSD, USDT, USDC, DAI, ETH, wETH, wBTC, wstETH, wSOL, sUSDS, cbBTC, rETH
+
+🔘 Trust Wallet FlexGas (https://trustwallet.com/ru/blog/announcements/flex-gas-pay-for-gas-with-twt-usdt-or-bnb) (в кошельке TrustWallet)
+FlexGas позволяет вам оплачивать комиссию за газ, используя TWT , USDT, USDC поверх ETH и BNB при отправке и обмене криптовалюты. Выберите TWT, USDT или USDC (на BSC), а также USDT или USDC (на Ethereum) для оплаты газа
+
+🔘 Bitget Wallet GetGas (https://web3.bitget.com/en/blog/articles/bind-eip7702) (в кошельке Bitget)
+Bind Bitget Wallet’s EIP-7702.
+Благодаря функции GetGas вы можете оплачивать комиссию за газ напрямую в токенах, таких как USDT, USDC или BGB, даже если у вас нет собственной монеты блокчейна
+
+⭕️ Gas Free, Gas Station, смарт-контракты и другие вариации
+
+🔘 Gas Station SafePal (https://youtu.be/J7f1DBWvQiY?si=5F13oCJGXTMDbNgr) (в кошельке SafePal)
+▪️Купить Gas (нативные монеты для оплаты сетевых комиссий +-16 блокчейнов по EIP-4337 и EIP-7702) с газового баланса или за SFP BEP20, USDT (TRC20, ERC20, BEP20, Polygon, Optimism, Arbitrum One), USDC (ERC20, BEP20, Polygon, Optimism, Arbitrum One)
+▪️Пополнить "газовый баланс" (аккаунт смарт-контракт) с GPay/IOS Wallet или за SFP BEP20, USDT (TRC20, ERC20, BEP20, Polygon, Optimism, Arbitrum One), USDC (ERC20, BEP20, Polygon, Optimism, Arbitrum One)
+
+🔘 Rabby Wallet GasAccount (https://support.rabby.io/hc/en-us/articles/11477594883599-How-does-Rabby-GasAccount-work)
+Оплатить комиссию за газ можно ⚠️ только с помощью USDC/USDT после завершения пополнения счета.
+При использовании GasAccount, Rabby рассчитывает максимальный объем газа, необходимый для вашей транзакции. Затем Rabby отправляет на ваш адрес достаточное количество газа, чтобы гарантировать наличие у вас достаточного количества токенов для завершения транзакции. После завершения пополнения счета вы можете использовать GasAccount для оплаты комиссий за газ ⚠️ по любому из ваших адресов . При подписании транзакции выберите GasAccount для оплаты комиссий за газ
